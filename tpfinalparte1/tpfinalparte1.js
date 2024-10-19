@@ -1,4 +1,5 @@
 //Gael Sorzini y  Braian Ezequiel Bailate
+//https://youtu.be/hU9jdfZnXwE
 let fondos = [];
 let estado;
 let sonidoFondo, tic;
